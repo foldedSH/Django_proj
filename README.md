@@ -1,1 +1,1 @@
-# Miniproject1
+# Django Project
